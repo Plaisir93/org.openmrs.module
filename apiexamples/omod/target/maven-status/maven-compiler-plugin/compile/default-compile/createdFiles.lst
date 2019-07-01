@@ -1,0 +1,5 @@
+org\openmrs\module\apiexamples\fragment\controller\ObsFragmentController.class
+org\openmrs\module\apiexamples\extension\html\AdminList.class
+org\openmrs\module\apiexamples\fragment\controller\PersonFragmentController.class
+org\openmrs\module\apiexamples\web\controller\APIExamplesController.class
+org\openmrs\module\apiexamples\fragment\controller\UsersFragmentController.class
